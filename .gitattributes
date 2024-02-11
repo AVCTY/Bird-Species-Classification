@@ -1,2 +1,8 @@
 . filter=lfs diff=lfs merge=lfs -text
 Bird-Species-Classification/* filter=lfs diff=lfs merge=lfs -text
+Test filter=lfs diff=lfs merge=lfs -text
+Train filter=lfs diff=lfs merge=lfs -text
+VGG16 filter=lfs diff=lfs merge=lfs -text
+Xception filter=lfs diff=lfs merge=lfs -text
+*.ipynb filter=lfs diff=lfs merge=lfs -text
+*.txt filter=lfs diff=lfs merge=lfs -text
